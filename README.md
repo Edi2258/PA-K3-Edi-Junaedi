@@ -4,7 +4,7 @@ Ganti paragraf ini dengan penjelasan singkat mengenai aplikasi. Beri tahu pembac
 
 Tampilan Utama                              | Tampilan Kata                              | Tampilan Praktik
 --------------------------------------------|--------------------------------------------|--------------------------------------------
-<img src="screenshots/pic1.png" width="200">|<img src="screenshots/pic2.png" width="200">|<img src="screenshots/pic3.png" width="200">
+<img src="screenshots/Lobi Scene.png" width="200">|<img src="screenshots/pic2.png" width="200">|<img src="screenshots/pic3.png" width="200">
 
 ### Link Berkas PA
 
